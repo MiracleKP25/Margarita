@@ -1,12 +1,39 @@
-# React + Vite
+Un site web moderne développé avec React.js, mettant en valeur la Margarita comme cocktail phare, tout en proposant une sélection variée de cocktails. Inspiré du concept du site Mojito, ce projet vise à offrir une expérience utilisateur élégante, immersive et responsive.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Objectifs :
+Promouvoir la Margarita comme cocktail emblématique
 
-Currently, two official plugins are available:
+Présenter une sélection de cocktails de manière visuelle et attrayante
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Permettre à l’utilisateur de découvrir, filtrer et consulter les détails des cocktails
 
-## Expanding the ESLint configuration
+(Optionnel) Intégrer une fonctionnalité de demande de prestation ou de commande
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Technologies utilisées :
+React.js – Construction de l’interface dynamique
+
+React Router – Navigation entre les pages
+
+Tailwind CSS – Design responsive et moderne
+
+Données statiques ou JSON mock – Pour l’affichage des cocktails
+
+(Optionnel) Figma – Pour les maquettes UI
+
+📄 Pages principales :
+Accueil : Présentation de la Margarita et mise en avant de cocktails populaires
+
+Liste des cocktails : Grille affichant tous les cocktails disponibles
+
+Détails d’un cocktail : Page individuelle avec description, ingrédients, visuel
+
+Contact / Commande : Formulaire pour réserver une prestation ou demander un devis
+
+🔍 À venir :
+Ajout de filtres par ingrédients
+
+Intégration d’un backend pour la gestion des commandes
+
+Version mobile optimisée
+
+Ajout d'animations visuelles
