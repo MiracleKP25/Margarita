@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+body {
+  font-family: "Lobster Two", sans-serif;
+  background-image: url('/public/images/mogito.jpg');
+  background-size: cover;
+  width: 100%;
+}
